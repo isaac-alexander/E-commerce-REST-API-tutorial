@@ -1,0 +1,17 @@
+HTTP - HyperText Transfer Protocol - A set of rules that computers follow to send
+and receive data over the internet
+
+HTML - HyperText Markup Language
+
+JSON - JavaScript Object Notation
+
+API - Application Programming Interface - A way for applications to communicate with each other
+
+Spring MVC - A framework for building web applications
+It gives uss the tools we need to handle HTTP requests, generate web pages, and return data to clients
+
+Bean - an object that is managed by spring
+
+Template Engine - A tool that allows us to create dynamic web pages by embedding variables and logic inside HTMl files
+
+Representational State Transfer (REST) CONTROLLER - A set of rules that define how applications should communicate over HTTP
