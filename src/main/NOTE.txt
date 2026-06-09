@@ -15,3 +15,5 @@ Bean - an object that is managed by spring
 Template Engine - A tool that allows us to create dynamic web pages by embedding variables and logic inside HTMl files
 
 Representational State Transfer (REST) CONTROLLER - A set of rules that define how applications should communicate over HTTP
+
+Data Transfer Object - A DTO (Data Transfer Object) is a simple Java Object used to transfer data between different layers of an application.
