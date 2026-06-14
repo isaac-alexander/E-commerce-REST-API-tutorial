@@ -27,3 +27,6 @@ Deserialization - Converting a JSON into Java object
 @JsonInclude - for excluding null or empty fields
 @JsonFormat - for formating values (date, time)
 
+Extract request header
+  @RequestHeader(required = false, name = "x-auth-token") String authToken,
+
